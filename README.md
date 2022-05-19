@@ -5,4 +5,4 @@ This is the knowledge base for the photonic cluster state generation project in 
 
 ## Contact
 
-Email: <yuan.zhan@colorado.edu>
+email: <yuan.zhan@colorado.edu>
