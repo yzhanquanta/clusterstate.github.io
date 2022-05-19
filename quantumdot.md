@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "quantum dot"
-permalink: /quantumdot.html
+permalink: /quantumdot/
 ---
 Quantum dot
