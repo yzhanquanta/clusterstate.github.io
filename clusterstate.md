@@ -1,4 +1,4 @@
 ---
-layout: default
+permalink: /clusterstate/
 ---
 Photonic cluster state
