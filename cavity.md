@@ -1,4 +1,4 @@
 ---
 permalink: /cavity/
 ---
-cavity
+Cavity
