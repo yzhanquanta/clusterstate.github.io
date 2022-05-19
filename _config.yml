@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: light-matter interaction
 description: quantum dot mediated photonic entanglement generation
 logo: /assets/img/sun_quantum_knot_web.png
-logo_description: JILA
+logo_description: "@JILA"
 show_downloads: false
 google_analytics:
