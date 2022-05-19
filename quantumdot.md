@@ -1,4 +1,4 @@
 ---
 permalink: /quantumdot/
 ---
-Quantum dot test
+Quantum dot
