@@ -2,3 +2,6 @@
 permalink: /quantumdot/
 ---
 Quantum dot
+
+Strain induced self-assembly: https://www.texaspowerfulsmart.com/force-microscopy/quantum-structure-nanofabrication-using-straininduced-selfassembly.html
+https://fmross.mit.edu/about
