@@ -1,11 +1,11 @@
 ---
 permalink: /quantumdot/
 ---
-# Quantum dot
+## Quantum dot
 
-## Self-assembled InGaAs quantum dot
+### Self-assembled InGaAs quantum dot
 
 Strain induced self-assembly: https://www.texaspowerfulsmart.com/force-microscopy/quantum-structure-nanofabrication-using-straininduced-selfassembly.html
 https://fmross.mit.edu/about
 
-## Transform-limited linewidth
+### Transform-limited linewidth
