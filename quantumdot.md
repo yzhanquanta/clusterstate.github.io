@@ -9,3 +9,6 @@ Strain induced self-assembly: https://www.texaspowerfulsmart.com/force-microscop
 https://fmross.mit.edu/about
 
 ### Transform-limited linewidth
+
+https://en.wikipedia.org/wiki/Bandwidth-limited_pulse    
+https://www.rp-photonics.com/time_bandwidth_product.html
