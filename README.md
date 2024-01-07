@@ -6,4 +6,4 @@ This is the second line
 
 ## Contact
 
-email: <yuan.zhan@colorado.edu>
+Email: <yuan.zhan@colorado.edu>
