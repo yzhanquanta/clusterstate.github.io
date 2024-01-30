@@ -4,8 +4,9 @@
 body {
   background-color: #fff;
   padding: 50px;
-  font: 16px/1.5 "Noto Sans";
+  font: 16px/1.5 "Helvetica Neue", "Noto Sans";
   color: #3f3f3f;
+  font-weight: 375
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,7 +19,7 @@ p, ol, table, pre, dl {
 }
 
 #des {
-  color:#727272;
+  color:#3f3f3f;
   margin:0 0 20px;
 }
 
